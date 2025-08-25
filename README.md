@@ -1,7 +1,7 @@
 # 📂 Чек-листы
 
 ## 🔎 Реальные проекты
-- [Lamoda](lamoda-checklist.xlsx) — функциональные проверки сайта Lamoda  
+- [Lamoda] [Скачать чек-лист (Excel)](https://github.com/adilkairkhanov/checklists/raw/main/lamoda-checklist.xlsx/raw/main/lamoda-checklist.xlsx) — функциональные проверки сайта Lamoda  
   📸 [Скриншот таблицы](lamoda-checklist.png)
 
 ---
